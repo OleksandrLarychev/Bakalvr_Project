@@ -1,6 +1,6 @@
 ﻿# Polygraphy Shop Server
 
-## Команды запуска
+## Команди старту
 
 ```bash
 npm install
